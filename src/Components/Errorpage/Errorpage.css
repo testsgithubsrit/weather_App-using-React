@@ -1,0 +1,27 @@
+/* Errorpage.css */
+
+/* Center the image and button */
+.oops {
+    display: block;
+    margin: 0 auto; /* Center the image horizontally */
+    max-width: 100%; /* Ensure it doesn't stretch beyond the viewport */
+    height: auto;
+  }
+  
+  /* Styling the button */
+  .btn5 {
+    display: block;
+    margin: 20px auto; /* Center the button */
+    padding: 10px 20px;
+    background-color: #ff6f61;
+    color: white;
+    border: none;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .btn5:hover {
+    background-color: #4bbfe6; /* Slightly darker shade on hover */
+  }
+  
